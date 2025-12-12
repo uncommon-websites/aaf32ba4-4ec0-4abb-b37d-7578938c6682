@@ -1,26 +1,23 @@
 <script>
     const partners = [
-        { name: "Your Firm's Data", icon: "🏢" },
-        { name: "LSEG", icon: "🔵", color: "bg-blue-600" },
-        { name: "Dow Jones", icon: "D", color: "bg-blue-400" },
-        { name: "FactSet", icon: "F", color: "bg-blue-800" },
-        { name: "Capital IQ", icon: "S", color: "bg-red-600" },
-        { name: "PitchBook", icon: "P", color: "bg-blue-900" },
-        { name: "Preqin", icon: "P", color: "bg-purple-900" },
-        { name: "Real-time Web & News", icon: "🌐" },
-        { name: "SEC Filings", icon: "🏛️" },
-        { name: "Transcripts", icon: "📞" },
-        { name: "Investor Presentations", icon: "📊" },
-        { name: "International Filings", icon: "🌍" }
+        { name: "QuickBooks Online", icon: "Q", color: "bg-green-600" },
+        { name: "QuickBooks Desktop", icon: "Q", color: "bg-green-700" },
+        { name: "Excel & CSV", icon: "📊" },
+        { name: "Google Sheets", icon: "G", color: "bg-green-500" },
+        { name: "Xero", icon: "X", color: "bg-blue-500" },
+        { name: "Stripe", icon: "S", color: "bg-purple-600" },
+        { name: "PayPal", icon: "P", color: "bg-blue-600" },
+        { name: "Bank Feeds", icon: "🏦" },
+        { name: "Custom API", icon: "⚡" }
     ];
 </script>
 
 <section class="py-24 bg-white">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-16 max-w-2xl">
-            <h2 class="text-3xl md:text-4xl font-serif text-gray-900 mb-6">Trusted Data</h2>
+            <h2 class="text-3xl md:text-4xl font-serif text-gray-900 mb-6">Seamless Integrations</h2>
             <p class="text-sm text-gray-500 leading-relaxed">
-                We partner with trusted data providers to bring the highest-quality financial information to our platform. Their expertise, combined with Rogo's technology, gives customers the clarity and confidence they need to move fast.
+                Connect with the tools you already use. Kordis integrates directly with QuickBooks and other popular accounting platforms, automatically syncing your client data in real-time for effortless financial management.
             </p>
         </div>
 

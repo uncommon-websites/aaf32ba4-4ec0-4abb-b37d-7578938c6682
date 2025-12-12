@@ -15,12 +15,12 @@
                     </svg>
                 </div>
                 <h2 class="text-4xl md:text-5xl font-serif text-gray-900 leading-tight">
-                    Unlock Financial AI<br />For Your Firm
+                    Start Automating Your<br />Client Reporting Today
                 </h2>
             </div>
             <div>
                 <a href="#demo" class="rounded-full bg-black px-6 py-3 text-sm font-medium text-white hover:bg-gray-800 transition-colors inline-block">
-                    Request Demo
+                    Get Started Free
                 </a>
             </div>
         </div>
@@ -52,10 +52,10 @@
             <div>
                 <h4 class="text-[10px] font-mono uppercase tracking-widest text-gray-500 mb-6">Contact</h4>
                 <ul class="space-y-4">
-                    <li><a href="#demo" class="text-xs text-gray-600 hover:text-gray-900">Request Demo</a></li>
-                    <li><a href="#sales" class="text-xs text-gray-600 hover:text-gray-900">Sales</a></li>
+                    <li><a href="#demo" class="text-xs text-gray-600 hover:text-gray-900">Get Started</a></li>
+                    <li><a href="#support" class="text-xs text-gray-600 hover:text-gray-900">Support</a></li>
                     <li><a href="#linkedin" class="text-xs text-gray-600 hover:text-gray-900">LinkedIn</a></li>
-                    <li><a href="#press" class="text-xs text-gray-600 hover:text-gray-900">Press</a></li>
+                    <li><a href="mailto:hello@kordis.com" class="text-xs text-gray-600 hover:text-gray-900">Email Us</a></li>
                 </ul>
             </div>
         </div>
@@ -63,7 +63,7 @@
         <!-- Copyright -->
         <div class="text-center border-t border-gray-100 pt-8">
             <p class="text-[10px] font-mono uppercase tracking-widest text-gray-400">
-                © {currentYear} Rogo AI
+                © {currentYear} Kordis
             </p>
         </div>
     </div>
